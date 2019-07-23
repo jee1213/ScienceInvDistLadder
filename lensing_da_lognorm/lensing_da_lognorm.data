@@ -1,0 +1,6 @@
+# 
+lensing_da_lognorm.data_directory		= #path to the data directory
+lensing_da_lognorm.data				= # name of the estimated angular diameter distances to the lens
+lensing_da_lognorm.covmat_nosys 		= # name of the estimated covariance matrix of the lensing distances
+
+lensing_da_lognorm.has_syscovmat		= False
